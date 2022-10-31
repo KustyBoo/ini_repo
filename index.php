@@ -54,7 +54,7 @@
 <html lang="en">
 
     <head>
-        <title> EKIN </title>
+        <title> tes </title>
         <link rel = "icon" href = "logo_web.png">
         <link rel="stylesheet" href="style.css">
         <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
